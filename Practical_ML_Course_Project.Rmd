@@ -161,7 +161,7 @@ The uncertainty matrices demonstrate that the algorithm of the Random Forest per
 It is calculated that the predicted out-of-sample error is 0.005, or 0.5%. For predictions made against the cross-validation range, the predicted out-of-sample error is determined as 1-accuracy. 20 instances are included in our research data collection. We may expect very little, or none, of the test samples to be misclassified with an accuracy above 99 percent on our cross-validation results..
 
 ## Submission
-In this section the files for the project submission are generated using the random forest algorithm on the testing data.
+The files for the project submission are created in this section using the random forest algorithm for testing data.
 
 ```{r submission, echo=TRUE}
 # Perform prediction
